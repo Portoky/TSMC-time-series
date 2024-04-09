@@ -1,0 +1,29 @@
+time series
+forecasting
+backcasting(ellenorzes)
+classical time series forecasting
+(probabilistic) - ML based forecasting
+nyelv is hasonloan viselkedik mint a time series - ugy mint a diagram
+
+pandas
+	datetime index 
+	oszlopok dimenziok, sorok meg adatpontok
+	.resample
+multivariate timeseries
+Boxjacking type forecasting
+
+seasonality, trend, amplification
+
+trend-stationarity - stacionarius - itt nem tavolodik el az x- tengelytol 
+p < 0.05 stacionarius teljesen random nem folyasolja be semmi
+ellenkezo esetben nem stacionarius - tart valamerre
+
+a box - 33%-67% ebben az intervallumban van
+
+furier szeria - tobb sinus fuggveny
+
+trending - seasinoality -> residual - maradek
+
+detrending
+
+decomposition - ez az egesz folyamat
